@@ -6,6 +6,7 @@
 
 - Clone this repository in your system
 - Install node modules with **`npm install`**
+- To run the project the run the command `npm run debug`
 - Change **.env.example** to **.env** file and add the environment variables
 
   - Available environmental variables
